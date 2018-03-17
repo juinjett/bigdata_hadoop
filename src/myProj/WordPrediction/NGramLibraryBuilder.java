@@ -1,4 +1,4 @@
-package myProj;
+package myProj.WordPrediction;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
