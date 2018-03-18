@@ -78,7 +78,7 @@ public class LanguageModel {
                     treeMap.get(count).add(word);
                 }
                 else {
-                    treeMap.put(count, new ArrayList<>());
+                    treeMap.put(count, new ArrayList<String>());
                     treeMap.get(count).add(word);
                 }
             }
